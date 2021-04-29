@@ -1,4 +1,4 @@
-##📝 To do list
+## 📝 To do list
 할일을 기록하고 수행결과를 표시할 수 있는 To Do List 웹 페이지입니다.
 
 ## 실행
